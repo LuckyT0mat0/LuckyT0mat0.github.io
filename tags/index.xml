@@ -2,9 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on LuckyT0mat0</title>
-    <link>http://example.org/tags/</link>
+    <link>https://luckyt0mat0.com/tags/</link>
     <description>Recent content in Tags on LuckyT0mat0</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 03 Mar 2021 16:00:16 +0800</lastBuildDate><atom:link href="https://luckyt0mat0.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bounty Hunter Tip</title>
+      <link>https://luckyt0mat0.com/tags/bounty-hunter-tip/</link>
+      <pubDate>Wed, 03 Mar 2021 16:00:16 +0800</pubDate>
+      
+      <guid>https://luckyt0mat0.com/tags/bounty-hunter-tip/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
